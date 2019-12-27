@@ -1,2 +1,7 @@
-# python-main-example
-This is an example project to demonstrate the use of github on Ubuntu
+#!/user/bin/python3
+
+def main(msg):
+	// Print a message
+	print(msg)
+
+main("Hell")
